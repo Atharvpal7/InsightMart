@@ -1,2 +1,7 @@
-# InsightMart
-The Store Sales Analysis in Power BI is a data-driven approach to understanding and optimizing sales performance across various stores. It provides interactive dashboards and reports that help businesses track key metrics such as total revenue, profit margins, customer demographics, product performance, and regional sales trends. 
+# :octocat:Dashboard👇
+![Screenshot 2023-07-28 152259](https://github.com/yashdoshi12/Sales_report_using_PowerBi/assets/39629707/23e117f3-fd1d-4c0b-a0a7-391795d3ca79)
+
+<hr />
+<br />
+
+# <div align="center">Don't forget to leave a star ⭐️</div>
